@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-SmithTreatmentViewTool::Renderer.copyright "[INSERT NAME HERE]", "All Rights Reserved"
+SmithViewTool::Renderer.copyright "[INSERT NAME HERE]", "All Rights Reserved"
 ```
 
 ## Development
