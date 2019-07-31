@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various View Specific methods for applications I use}
   spec.description   = %q{Provides generated HTML data for Rails applications}
-  spec.homepage      = "https://github.com"
+  spec.homepage      = "https://github.com/SmithWebDev"
   spec.license       = "MIT"
 
   spec.files         = Dir.chdir(File.expand_path('..', __FILE__)) do
